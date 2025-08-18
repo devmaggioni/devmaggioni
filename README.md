@@ -58,6 +58,7 @@
 **Testes:** Jest, Supertest, Unit Testing, Integration Testing
 
 🔥 **Foco atual:** Construir sistemas backend escaláveis e fáceis de manter
+
 ☕ **Curiosidade:** Eu debugo melhor com café
 
 ---
