@@ -1,9 +1,10 @@
 <h1 align="center">👨‍💻 Gabriel Maggioni</h1>
 
+![imagem de perfil](https://raw.githubusercontent.com/devmaggioni/devmaggioni/refs/heads/main/cat.webp)
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Maggioni-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmaggioni/)
-[![GitHub](https://img.shields.io/badge/GitHub-devmaggioni-181717?style=flat&logo=github&logoColor=white)](https://github.com/devmaggioni)
 [![NPM](https://img.shields.io/badge/NPM-devmaggioni-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~devmaggioni)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devmaggioni&color=red&style=flat-square)
