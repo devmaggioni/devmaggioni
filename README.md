@@ -1,6 +1,8 @@
 <h1 align="center">👨‍💻 Gabriel Maggioni</h1>
 
+<div align="center">
 ![imagem de perfil](https://raw.githubusercontent.com/devmaggioni/devmaggioni/refs/heads/main/cat.webp)
+</div>
 
 <div align="center">
 
