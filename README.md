@@ -5,7 +5,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Maggioni-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmaggioni/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devmaggioni-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmaggioni/)
+[![Website](https://img.shields.io/badge/maggioni.dev-0078D4?style=flat&logo=google-chrome&logoColor=white)](https://maggioni.dev)
 [![NPM](https://img.shields.io/badge/NPM-devmaggioni-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~devmaggioni)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devmaggioni&color=red&style=flat-square)
