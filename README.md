@@ -1,10 +1,9 @@
 
-
-<h1 align="center">Olá, eu sou o Gabriel Maggioni 👋</h1>
-
 <div align="center">
-
-![imagem de perfil](https://raw.githubusercontent.com/devmaggioni/devmaggioni/refs/heads/main/cat.webp)
+  
+  <h1 align="center">Olá, eu sou o Gabriel Maggioni 👋</h1>
+  
+![imagem de perfil](https://raw.githubusercontent.com/devmaggioni/devmaggioni/refs/heads/main/funnycat.webp)
 
 </div>
 
