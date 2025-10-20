@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/devmaggioni/devmaggioni/output/snake.svg" alt="Snake animation" />
+
 <h1 align="center">👨‍💻 Gabriel Maggioni</h1>
 
 <div align="center">
