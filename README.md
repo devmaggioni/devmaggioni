@@ -1,10 +1,6 @@
-
-<div align="center">
-  
-  <h1 align="center">Olá, eu sou o Gabriel Maggioni 👋</h1>
-  
-![imagem de perfil](https://raw.githubusercontent.com/devmaggioni/devmaggioni/refs/heads/main/funnycat.webp)
-
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <h1>Olá, eu sou o Gabriel Maggioni 👋</h1>
+  <img src="https://raw.githubusercontent.com/devmaggioni/devmaggioni/refs/heads/main/funnycat.webp" alt="imagem de perfil" width="120"/>
 </div>
 
 <div align="center">
