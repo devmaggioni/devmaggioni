@@ -61,6 +61,10 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
+## desktop
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) 
+![Wails](https://img.shields.io/badge/Wails-000000?style=for-the-badge&logo=wails&logoColor=white)
 
 ## 🧪 Testes e Qualidade
 
