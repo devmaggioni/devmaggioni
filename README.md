@@ -41,8 +41,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-003B57?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Redis-003B57?style=for-the-badge&logo=redis&logoColor=white)
-
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-DD0031?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ## 🗄️ Bancos de Dados
 
