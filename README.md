@@ -30,6 +30,7 @@
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-38B2AC?style=for-the-badge&logo=vite&logoColor=white)
 
 
 ## ⚙️ Backend
@@ -39,6 +40,9 @@
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-003B57?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Redis-003B57?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ## 🗄️ Bancos de Dados
 
@@ -51,7 +55,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+![Sentry](https://img.shields.io/badge/Sentry-326CE5?style=for-the-badge&logo=sentry&logoColor=white)
 
 ## 📱 Mobile
 
